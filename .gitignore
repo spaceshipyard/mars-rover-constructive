@@ -1,0 +1,4 @@
+#kompas bakup files
+
+*.bak
+**/tmp/*
