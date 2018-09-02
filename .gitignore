@@ -1,2 +1,21 @@
+#kompas bakup files
+
 *.bak
-*.*~
+**/tmp/*
+**/~$*~
+**/
+
+
+#non kompas3d CADs files
+*.SLDPRT
+*.SLDDRW
+*.STEP
+*.STL
+*.SAT
+*.IPT
+*.sldprt
+*.slddrw
+*.step
+*.stl
+*.sat
+*.ipt
