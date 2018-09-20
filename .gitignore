@@ -3,7 +3,6 @@
 *.bak
 **/tmp/*
 **/~$*~
-**/
 
 
 #non kompas3d CADs files
